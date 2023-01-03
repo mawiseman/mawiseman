@@ -8,5 +8,5 @@ I'm Mark. Software developer working with all the .NET CMS platforms: Sitecore, 
 ## Get in touch
 - Personal Website: https://wiseman.net.au
 - Twitter: https://twitter.com/markwiseman/
-- Mastodon: <a rel="me" href="https://mastodon.au/@markwiseman">https://mastodon.au/@markwiseman</a>
+- Mastodon: https://mastodon.au/@markwiseman
 - LinkedIn: https://www.linkedin.com/in/markwiseman/
